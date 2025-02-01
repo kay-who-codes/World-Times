@@ -1,3 +1,19 @@
+// HEADER BAR
+
+// Toggle dropdown visibility
+function toggleDropdown() {
+    const dropdown = document.querySelector('.dropdown');
+    dropdown.classList.toggle('show');
+  }
+  
+  // Close dropdown when clicking outside
+  window.addEventListener('click', (event) => {
+    const dropdown = document.querySelector('.dropdown');
+    if (!dropdown.contains(event.target)) {
+      dropdown.classList.remove('show');
+    }
+  });
+
 // Predefined offsets relative to GMT
 const countries = [
     { name: "🇺🇸 USA", city: "Los Angeles", tz: "America/Los_Angeles", offsetGMT: -8 },
