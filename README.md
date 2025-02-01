@@ -14,6 +14,7 @@ An app to help you track and compare time zones from around the world.
 2. View the current time for the time zones below.
 
 ## Included Time Zones
+## Included Time Zones
 
 - 🇺🇸 USA (Los Angeles)
 - 🇺🇸 USA (New York)
@@ -29,6 +30,9 @@ An app to help you track and compare time zones from around the world.
 - 🇨🇳 China (Beijing)
 - 🇯🇵 Japan (Tokyo)
 - 🇦🇺 Australia (Sydney)
+- 🇦🇶 Antarctica (Rothera Station)
+- 🇿🇦 South Africa (Cape Town)
+- 🇬🇷 Greece (Athens)
 
 ## Files
 
