@@ -11,8 +11,24 @@ An app to help you track and compare time zones from around the world.
 ## Usage
 
 1. Open the app in a browser - **[LINK TO THE APP](https://kay-who-codes.github.io/World-Times)**.
-2. Select the time zones you want to track from the dropdown menu.
-3. View the current time for the selected time zones displayed on the screen.
+2. View the current time for the time zones below.
+
+## Included Time Zones
+
+- 🇺🇸 USA (Los Angeles)
+- 🇺🇸 USA (New York)
+- 🇨🇦 Canada (Toronto)
+- 🇧🇷 Brazil (São Paulo)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 UK (London)
+- 🇩🇪 Germany (Berlin)
+- 🇫🇷 France (Paris)
+- 🇮🇹 Italy (Rome)
+- 🇷🇺 Russia (Moscow)
+- 🇦🇪 UAE (Dubai)
+- 🇮🇳 India (Delhi)
+- 🇨🇳 China (Beijing)
+- 🇯🇵 Japan (Tokyo)
+- 🇦🇺 Australia (Sydney)
 
 ## Files
 
